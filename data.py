@@ -166,7 +166,7 @@ import cerberus
 
 import schema
 
-OSM_PATH = "Lasvegas.osm"
+OSM_PATH = "sample.osm"
 USPS_STREET = "USPS Street Abbrev.csv"
 CITIES_LIST = "Cities_List.csv"
 
